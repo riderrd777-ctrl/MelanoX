@@ -30,4 +30,4 @@ with col2:
         st.warning("👆 Upload an image to start analysis!")
 
 st.markdown("---")
-st.markdown("*Powered by Streamlit & OpenCV for Mizpah English Medium School project.*")
+st.markdown("*Powered by Streamlit & OpenCV for Maijinlak project.*")
